@@ -1,6 +1,9 @@
 {
   "name": "amplifyudemy",
   "version": "1.0.0",
+  "engines": {
+    "node": "v16.15.1"
+  },
   "description": "",
   "main": "app.js",
   "author": "",
